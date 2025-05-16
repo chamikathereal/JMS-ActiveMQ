@@ -2,6 +2,13 @@
 
 This repository contains two integrated Java projects demonstrating how to use **Java Message Service (JMS)** with **Apache ActiveMQ** to implement reliable asynchronous communication between components using **Topics** and **Queues**.
 
+---
+
+## 📽️ Demo Video
+[![JMS ActiveMQ Project Demo](https://github.com/chamikathereal/JMS-ActiveMQ/blob/main/JMS-ActiveMQ.png)](https://youtu.be/pc15pltfXDs)
+
+---
+
 ## 📦 Projects Overview
 
 ### 1. ActiveMQClient (Java SE)
